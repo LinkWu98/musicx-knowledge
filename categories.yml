@@ -1,10 +1,4 @@
 categories:
-  - id: notation
-    title: 识谱
-    order: 10
   - id: theory
     title: 乐理
     order: 20
-  - id: practice
-    title: 练习方法
-    order: 30
