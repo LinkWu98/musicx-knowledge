@@ -1,0 +1,30 @@
+目标：把喜欢的音乐弹起来，从简化片段逐步扩展。从现在就可以并行。
+
+## 学什么
+
+- 旋律与和弦谱：Lead Sheet 的读法。
+- 把曲子拆成旋律、低音、和弦、节奏与段落。
+- 左手根音或贝斯，配右手旋律与少量和弦音。
+- 分段连接，按曲目需要补踏板、力度与声部控制。
+
+## 用什么学
+
+- 原曲音频加适合当前能力的简化谱、片段谱或 Lead Sheet。
+- [和弦符号说明](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/)：遇到不认识的标记时查阅。
+- 遇到难点，再回到[核心入门](musicx-knowledge://article/learning-path.chords)、[爵士和声](musicx-knowledge://article/learning-path.jazz-harmony)或[节奏律动](musicx-knowledge://article/learning-path.rhythm)。
+
+## 用什么练
+
+- 喜欢的一首歌中最想弹的两到四小节，先保留旋律。
+- 为这段旋律加每小节一个根音，再逐步加伴奏。
+- 把前段末尾与后段开头接起来，单独练换位和换和弦。
+- 喜欢爵士、嘻哈或游戏、动画配乐，都可以从其中的简化片段开始；难度以具体编配为准。
+
+## 完成标准
+
+- 能根据和弦标记弹出一段简单伴奏。
+- 能把四到八小节旋律与伴奏连起来，旋律听得清楚。
+- 能将片段逐步接成所选简化版，段落衔接不明显中断。
+- 能完整弹一遍并回听，指出节拍、衔接或声音上的主要问题。
+
+[返回学习路线](musicx-knowledge://article/learning-path.overview)。
