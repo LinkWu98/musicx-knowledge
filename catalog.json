@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "releaseID": "0e0492fd185738bf9fa4e83f92b21fd0ce895183",
+  "releaseID": "258a9a2e9bc6c84477e45eac44554728b6d64c49",
   "categories": [
+    {
+      "id": "learning-path",
+      "title": "学习路线",
+      "order": 10
+    },
     {
       "id": "theory",
       "title": "乐理",
@@ -10,12 +15,328 @@
   ],
   "articles": [
     {
+      "id": "learning-path.overview",
+      "title": "爵士与嘻哈钢琴学习路线",
+      "category": "learning-path",
+      "order": 0,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.overview.md",
+      "sha256": "7de3f2e3a7943d77b45d675c7b6d76b5fb9cf673fc4fe8231f9ec3fc4c681124",
+      "bytes": 3177,
+      "headings": [
+        {
+          "id": "h-4ddd5fc456da",
+          "level": 2,
+          "index": 0,
+          "title": "路线概览"
+        },
+        {
+          "id": "h-11886a5fd664",
+          "level": 2,
+          "index": 1,
+          "title": "基础与兴趣并行"
+        },
+        {
+          "id": "h-7aa9584295a1",
+          "level": 2,
+          "index": 2,
+          "title": "教材的使用"
+        },
+        {
+          "id": "h-c05e5b6297e5",
+          "level": 2,
+          "index": 3,
+          "title": "按问题查阅"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.foundations",
+        "learning-path.chords",
+        "learning-path.jazz-harmony",
+        "learning-path.rhythm",
+        "learning-path.repertoire",
+        "learning-path.improvisation"
+      ]
+    },
+    {
+      "id": "learning-path.foundations",
+      "title": "钢琴基础：识谱、节拍与双手配合",
+      "category": "learning-path",
+      "order": 10,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.foundations.md",
+      "sha256": "9bdb1b40440179318f33329fcf233bb0f9663bb34b9635a83628c4a9bcb132b9",
+      "bytes": 3142,
+      "headings": [
+        {
+          "id": "h-d6ac0d54b017",
+          "level": 2,
+          "index": 0,
+          "title": "识谱与键盘"
+        },
+        {
+          "id": "h-a33d5c5384b2",
+          "level": 2,
+          "index": 1,
+          "title": "节拍与时值"
+        },
+        {
+          "id": "h-2995ee8600ca",
+          "level": 2,
+          "index": 2,
+          "title": "双手与触键"
+        },
+        {
+          "id": "h-02302069487c",
+          "level": 2,
+          "index": 3,
+          "title": "一个短片段的用法"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.chords",
+        "learning-path.rhythm"
+      ]
+    },
+    {
+      "id": "learning-path.chords",
+      "title": "核心入门：调性、三和弦与伴奏",
+      "category": "learning-path",
+      "order": 20,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.chords.md",
+      "sha256": "da6cb26f78ce4d7ed46322622534b99ebabe20d9271ae5509c83f3338be31eb7",
+      "bytes": 3379,
+      "headings": [
+        {
+          "id": "h-4425ea83136f",
+          "level": 2,
+          "index": 0,
+          "title": "调性与音程"
+        },
+        {
+          "id": "h-2b33570f6eb9",
+          "level": 2,
+          "index": 1,
+          "title": "三和弦的组成"
+        },
+        {
+          "id": "h-d77c164d380a",
+          "level": 2,
+          "index": 2,
+          "title": "转位与平稳连接"
+        },
+        {
+          "id": "h-901baadc8912",
+          "level": 2,
+          "index": 3,
+          "title": "根音与和弦伴奏"
+        },
+        {
+          "id": "h-e4f1793f9677",
+          "level": 2,
+          "index": 4,
+          "title": "与旋律结合"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.jazz-harmony",
+        "theory.scales-tuning-and-chords"
+      ]
+    },
+    {
+      "id": "learning-path.jazz-harmony",
+      "title": "爵士和声：七和弦、进行与配置",
+      "category": "learning-path",
+      "order": 30,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.jazz-harmony.md",
+      "sha256": "9bd2f2ae83ab66aca16fde1a808946bcd15b7a608bced61d39fe1a1a2380f6a3",
+      "bytes": 3228,
+      "headings": [
+        {
+          "id": "h-bf7ac257944b",
+          "level": 2,
+          "index": 0,
+          "title": "常见七和弦"
+        },
+        {
+          "id": "h-16bc780d7c5f",
+          "level": 2,
+          "index": 1,
+          "title": "级数与和弦进行"
+        },
+        {
+          "id": "h-0cf34268b1cb",
+          "level": 2,
+          "index": 2,
+          "title": "和弦配置与声部连接"
+        },
+        {
+          "id": "h-930abac5effa",
+          "level": 2,
+          "index": 3,
+          "title": "放进实际音乐"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.chords",
+        "learning-path.rhythm",
+        "learning-path.improvisation"
+      ]
+    },
+    {
+      "id": "learning-path.rhythm",
+      "title": "节奏律动：切分、摇摆与和弦伴奏",
+      "category": "learning-path",
+      "order": 40,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.rhythm.md",
+      "sha256": "33110625d6042e83efc4bcf46b3d9a78afb3f69a9e46907df3bdbb387e05b40a",
+      "bytes": 3335,
+      "headings": [
+        {
+          "id": "h-d2d0d36e35a6",
+          "level": 2,
+          "index": 0,
+          "title": "拍点与细分"
+        },
+        {
+          "id": "h-66a413927f4b",
+          "level": 2,
+          "index": 1,
+          "title": "切分与重音"
+        },
+        {
+          "id": "h-05260cffc348",
+          "level": 2,
+          "index": 2,
+          "title": "平直与摇摆"
+        },
+        {
+          "id": "h-c18f21669bb3",
+          "level": 2,
+          "index": 3,
+          "title": "和弦伴奏的节奏"
+        },
+        {
+          "id": "h-a007e81ec1f3",
+          "level": 2,
+          "index": 4,
+          "title": "聆听与模仿"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.jazz-harmony",
+        "learning-path.repertoire"
+      ]
+    },
+    {
+      "id": "learning-path.repertoire",
+      "title": "曲目应用：从片段到完整演奏",
+      "category": "learning-path",
+      "order": 50,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.repertoire.md",
+      "sha256": "d3cfbe47386f6e01ab0d72227802d562c23d6db5df612ff6ddf236e7e2e199b2",
+      "bytes": 2965,
+      "headings": [
+        {
+          "id": "h-f6dedf4b72d7",
+          "level": 2,
+          "index": 0,
+          "title": "版本与难度"
+        },
+        {
+          "id": "h-d5780da32d6f",
+          "level": 2,
+          "index": 1,
+          "title": "旋律与和弦谱"
+        },
+        {
+          "id": "h-3cbd5eb2d219",
+          "level": 2,
+          "index": 2,
+          "title": "拆开音乐的层次"
+        },
+        {
+          "id": "h-60b1e2a6467e",
+          "level": 2,
+          "index": 3,
+          "title": "从片段连接到段落"
+        },
+        {
+          "id": "h-ad21c31530be",
+          "level": 2,
+          "index": 4,
+          "title": "从模仿到个人处理"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.chords",
+        "learning-path.rhythm"
+      ]
+    },
+    {
+      "id": "learning-path.improvisation",
+      "title": "自由演奏：扩展和弦、即兴与编配",
+      "category": "learning-path",
+      "order": 60,
+      "updated": "2026-10-07",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/learning-path.improvisation.md",
+      "sha256": "4872c8b0eb121c2eca1feb844d572f7fd0b09ca5263a26bb00a26db372506224",
+      "bytes": 3333,
+      "headings": [
+        {
+          "id": "h-caaf82b87f04",
+          "level": 2,
+          "index": 0,
+          "title": "扩展和弦"
+        },
+        {
+          "id": "h-bdccc6b62f7c",
+          "level": 2,
+          "index": 1,
+          "title": "配置与音区"
+        },
+        {
+          "id": "h-35f074edb701",
+          "level": 2,
+          "index": 2,
+          "title": "短动机与即兴"
+        },
+        {
+          "id": "h-22955143a002",
+          "level": 2,
+          "index": 3,
+          "title": "伴奏编配与重新配和弦"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "learning-path.overview",
+        "learning-path.jazz-harmony",
+        "learning-path.repertoire"
+      ]
+    },
+    {
       "id": "theory.scales-tuning-and-chords",
       "title": "从频率比到音阶：纯律与十二平均律",
       "category": "theory",
       "order": 10,
       "updated": "2026-10-07",
-      "path": "releases/0e0492fd185738bf9fa4e83f92b21fd0ce895183/articles/theory.scales-tuning-and-chords.md",
+      "path": "releases/258a9a2e9bc6c84477e45eac44554728b6d64c49/articles/theory.scales-tuning-and-chords.md",
       "sha256": "3380e2368699f7a2635777410badbe3224bda0eb52a1ca9885f33912d07d6369",
       "bytes": 10485,
       "headings": [
