@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "releaseID": "dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc",
+  "categories": [
+    {
+      "id": "notation",
+      "title": "识谱",
+      "order": 10
+    },
+    {
+      "id": "theory",
+      "title": "乐理",
+      "order": 20
+    },
+    {
+      "id": "practice",
+      "title": "练习方法",
+      "order": 30
+    }
+  ],
+  "articles": [
+    {
+      "id": "notation.staff",
+      "title": "五线谱与中央 C",
+      "category": "notation",
+      "order": 10,
+      "updated": "2026-10-02",
+      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/notation.staff.md",
+      "sha256": "0d1139a133c7626d1775f23f87a1262512b72d3dda3cca1002a2f86c3b5a8b17",
+      "bytes": 2242,
+      "headings": [
+        {
+          "id": "h-227a920b47fc",
+          "level": 2,
+          "index": 0,
+          "title": "从下往上，五条线"
+        },
+        {
+          "id": "h-3b6551105177",
+          "level": 2,
+          "index": 1,
+          "title": "以中央 C 为起点"
+        },
+        {
+          "id": "h-66d38d8032f0",
+          "level": 3,
+          "index": 2,
+          "title": "把位置和键盘连起来"
+        },
+        {
+          "id": "h-60a090d426b2",
+          "level": 2,
+          "index": 3,
+          "title": "相邻音与跳进"
+        },
+        {
+          "id": "h-1be6f31b015c",
+          "level": 2,
+          "index": 4,
+          "title": "试着读三个音"
+        }
+      ],
+      "assets": [
+        {
+          "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/assets/13e37b19c3a2b5eb9aa64599f60f2d9cc5c0ff3957e99c52894638cf46e15548.png",
+          "sha256": "13e37b19c3a2b5eb9aa64599f60f2d9cc5c0ff3957e99c52894638cf46e15548",
+          "bytes": 3479,
+          "mediaType": "image/png",
+          "width": 1200,
+          "height": 460
+        }
+      ],
+      "related": [
+        "notation.rhythm",
+        "theory.scales-tuning-and-chords"
+      ]
+    },
+    {
+      "id": "notation.rhythm",
+      "title": "拍号与节奏",
+      "category": "notation",
+      "order": 20,
+      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/notation.rhythm.md",
+      "sha256": "f0f2843d453ede53a8d8bd3ec8fa1d49d14012abe3e0d9ba31474aa1083cdbff",
+      "bytes": 714,
+      "headings": [
+        {
+          "id": "h-ba1126453ae7",
+          "level": 2,
+          "index": 0,
+          "title": "拍号告诉我们什么"
+        },
+        {
+          "id": "h-a6b0d376495b",
+          "level": 2,
+          "index": 1,
+          "title": "音符长短的关系"
+        },
+        {
+          "id": "h-8cc771582417",
+          "level": 2,
+          "index": 2,
+          "title": "先拍手，再弹琴"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "practice.slow"
+      ]
+    },
+    {
+      "id": "practice.slow",
+      "title": "怎样做有效的慢练",
+      "category": "practice",
+      "order": 10,
+      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/practice.slow.md",
+      "sha256": "4a93bd33d84e5fe57346e70dc7341763d5fbe0ae33c497c5e9478ac5bc60a9c9",
+      "bytes": 631,
+      "headings": [
+        {
+          "id": "h-8be0299fff94",
+          "level": 2,
+          "index": 0,
+          "title": "先选一个小片段"
+        },
+        {
+          "id": "h-bdbab9c74edd",
+          "level": 2,
+          "index": 1,
+          "title": "慢下来仍要有拍子"
+        },
+        {
+          "id": "h-ac45eff24e96",
+          "level": 2,
+          "index": 2,
+          "title": "有把握后再提速"
+        }
+      ],
+      "assets": [],
+      "related": []
+    },
+    {
+      "id": "theory.scales-tuning-and-chords",
+      "title": "从频率比到音阶：纯律与十二平均律",
+      "category": "theory",
+      "order": 10,
+      "updated": "2026-10-03",
+      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/theory.scales-tuning-and-chords.md",
+      "sha256": "ade62ad13bfe09aee4b29fc717b54ab2978e6bc56699336bc32bdadb8e95b670",
+      "bytes": 10586,
+      "headings": [
+        {
+          "id": "h-c763c4427ec4",
+          "level": 2,
+          "index": 0,
+          "title": "声音与频率"
+        },
+        {
+          "id": "h-71986b784b8e",
+          "level": 2,
+          "index": 1,
+          "title": "音程与度数"
+        },
+        {
+          "id": "h-4b600a97875a",
+          "level": 2,
+          "index": 2,
+          "title": "常见音程的比例"
+        },
+        {
+          "id": "h-7c734e45fcf8",
+          "level": 2,
+          "index": 3,
+          "title": "泛音与协和感"
+        },
+        {
+          "id": "h-17eb4174dfd4",
+          "level": 3,
+          "index": 4,
+          "title": "低次泛音的重合"
+        },
+        {
+          "id": "h-1e16e75b0fce",
+          "level": 3,
+          "index": 5,
+          "title": "融合与摩擦"
+        },
+        {
+          "id": "h-e97418f5fa48",
+          "level": 2,
+          "index": 6,
+          "title": "五度相生与音阶"
+        },
+        {
+          "id": "h-7436d603dee5",
+          "level": 3,
+          "index": 7,
+          "title": "以五度作为步长"
+        },
+        {
+          "id": "h-3efe0c75a4de",
+          "level": 3,
+          "index": 8,
+          "title": "生成与排列"
+        },
+        {
+          "id": "h-3270d40ff74f",
+          "level": 2,
+          "index": 9,
+          "title": "纯律与和弦"
+        },
+        {
+          "id": "h-cc503892b1df",
+          "level": 3,
+          "index": 10,
+          "title": "大三和弦的比例"
+        },
+        {
+          "id": "h-a40686b66904",
+          "level": 3,
+          "index": 11,
+          "title": "从和弦安排音阶"
+        },
+        {
+          "id": "h-2a1aa645ff84",
+          "level": 2,
+          "index": 12,
+          "title": "纯律的取舍"
+        },
+        {
+          "id": "h-b21d391de875",
+          "level": 2,
+          "index": 13,
+          "title": "十二平均律"
+        },
+        {
+          "id": "h-a19af07fde6f",
+          "level": 3,
+          "index": 14,
+          "title": "等比例的半音"
+        },
+        {
+          "id": "h-e47f73453d77",
+          "level": 3,
+          "index": 15,
+          "title": "固定键盘的取舍"
+        }
+      ],
+      "assets": [],
+      "related": [
+        "notation.staff"
+      ]
+    }
+  ]
+}
