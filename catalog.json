@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "releaseID": "dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc",
+  "releaseID": "2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d",
   "categories": [
     {
       "id": "notation",
@@ -25,7 +25,7 @@
       "category": "notation",
       "order": 10,
       "updated": "2026-10-02",
-      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/notation.staff.md",
+      "path": "releases/2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d/articles/notation.staff.md",
       "sha256": "0d1139a133c7626d1775f23f87a1262512b72d3dda3cca1002a2f86c3b5a8b17",
       "bytes": 2242,
       "headings": [
@@ -62,7 +62,7 @@
       ],
       "assets": [
         {
-          "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/assets/13e37b19c3a2b5eb9aa64599f60f2d9cc5c0ff3957e99c52894638cf46e15548.png",
+          "path": "releases/2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d/assets/13e37b19c3a2b5eb9aa64599f60f2d9cc5c0ff3957e99c52894638cf46e15548.png",
           "sha256": "13e37b19c3a2b5eb9aa64599f60f2d9cc5c0ff3957e99c52894638cf46e15548",
           "bytes": 3479,
           "mediaType": "image/png",
@@ -80,7 +80,7 @@
       "title": "拍号与节奏",
       "category": "notation",
       "order": 20,
-      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/notation.rhythm.md",
+      "path": "releases/2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d/articles/notation.rhythm.md",
       "sha256": "f0f2843d453ede53a8d8bd3ec8fa1d49d14012abe3e0d9ba31474aa1083cdbff",
       "bytes": 714,
       "headings": [
@@ -113,7 +113,7 @@
       "title": "怎样做有效的慢练",
       "category": "practice",
       "order": 10,
-      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/practice.slow.md",
+      "path": "releases/2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d/articles/practice.slow.md",
       "sha256": "4a93bd33d84e5fe57346e70dc7341763d5fbe0ae33c497c5e9478ac5bc60a9c9",
       "bytes": 631,
       "headings": [
@@ -145,7 +145,7 @@
       "category": "theory",
       "order": 10,
       "updated": "2026-10-03",
-      "path": "releases/dfe58eb30fa5af08e57f0e7b1cf4337b6e7a9fcc/articles/theory.scales-tuning-and-chords.md",
+      "path": "releases/2168f3c9d1d2a5ebbc7ba9373b5854e76fe4eb2d/articles/theory.scales-tuning-and-chords.md",
       "sha256": "ade62ad13bfe09aee4b29fc717b54ab2978e6bc56699336bc32bdadb8e95b670",
       "bytes": 10586,
       "headings": [
